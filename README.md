@@ -7,7 +7,7 @@
 
 ## Dev's Log
 <a href="https://velog.io/@sinseunghyeon313" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
-<a href="https://velog.io/@sinseunghyeon313" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=for-the-badge&logo=Tistory&logoColor=black"></a>
+<a href="https://rimzi-313.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=for-the-badge&logo=Tistory&logoColor=black"></a>
 
 ## Contact
 <div style="display:flex; flex-direction:row;">
